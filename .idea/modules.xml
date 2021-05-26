@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ml-app-conda.iml" filepath="$PROJECT_DIR$/.idea/ml-app-conda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/penguin-classification-ltd.iml" filepath="$PROJECT_DIR$/.idea/penguin-classification-ltd.iml" />
     </modules>
   </component>
 </project>
